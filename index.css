@@ -1,0 +1,25 @@
+div.register {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 20px;
+}
+
+label.register {
+    font-weight: bold;
+}
+
+input.register {
+    margin: 10px 10px 10px 0px;
+    width: 100%;
+    height: 25px;
+}
+
+input.register[type=submit] {
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+}
