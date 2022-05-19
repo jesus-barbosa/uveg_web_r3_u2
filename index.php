@@ -9,7 +9,7 @@
     <body>
         <div class="register">
             <h1>Registrar Alumno</h1>
-            <form action="card.html" method="post">
+            <form action="card.php" method="post">
                 <label class="register"for="firstname">Nombre:</label><br>
                 <input class="register" type="text" name="firstname"><br>
                 <label class="register"for="lastname">Apellidos:</label><br>
