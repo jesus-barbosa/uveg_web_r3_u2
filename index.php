@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="register">
-            <h1>Registrar Alumno</h1>
+            <h1>Registrar alumno</h1>
             <form action="card.php" method="post">
                 <label class="register"for="firstname">Nombre:</label><br>
                 <input class="register" type="text" name="firstname"><br>

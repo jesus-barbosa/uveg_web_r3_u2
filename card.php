@@ -9,7 +9,7 @@
     <body>
         <div class="card">
             <div class="card image">
-                <img src="https://qdeskmexico.com/wp-content/uploads/2019/09/el-beneficio-es-para-el-alumno.png" alt="alumno" width="150">
+                <img src="https://www.conalepags.edu.mx/img/estudiante225x225.png" alt="alumno" width="150">
             </div>
             <div class="card data">
                 <h2>Alumno</h2>
